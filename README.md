@@ -81,7 +81,9 @@ while True:
     else:
         print("PILIHAN MENU TIDAK ADA!")
 
-33
+# OUTPUT
+
+<img width="812" alt="Jepretan Layar 2022-12-06 pukul 10 20 45" src="https://user-images.githubusercontent.com/116137842/205805323-ea4e367b-2c47-4a2c-8656-18dbf00589e6.png">
 
 # PENJELASANNYA
 
@@ -94,3 +96,5 @@ while True:
 7. gunakan statment if, elif, else, di dalam while True dan panggil fungsi dari masing masing fungsi, contoh:
 
 # FLOWCHARTNYA
+
+<img width="591" alt="Jepretan Layar 2022-12-05 pukul 23 16 30" src="https://user-images.githubusercontent.com/116137842/205805361-dc5593a0-7eda-4568-9a71-600c25efe898.png">
